@@ -3,5 +3,5 @@ App para controle de finanças construído com Expo
 
 para iniciar o projeto:
 
-´´´npm install´´´
-´´´expo start´´´
+```npm install```
+```expo start```
